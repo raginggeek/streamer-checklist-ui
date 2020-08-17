@@ -1,0 +1,12 @@
+.checklist {
+    background-color: khaki;
+    align-items: flex-start;
+    padding-bottom: 2em;
+}
+
+.checklist-item {
+    width: auto;
+    text-align: left;
+    align-items: flex-start;
+    padding-left: 1em;
+}
